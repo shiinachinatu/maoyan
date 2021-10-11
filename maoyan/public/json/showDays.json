@@ -1,0 +1,49 @@
+{
+    "code": 0,
+    "data": {
+        "dates": [
+            {
+                "date": "2021-09-23",
+                "isPredate": 0
+            },
+            {
+                "date": "2021-09-24",
+                "isPredate": 0
+            },
+            {
+                "date": "2021-09-25",
+                "isPredate": 0
+            },
+            {
+                "date": "2021-09-26",
+                "isPredate": 0
+            },
+            {
+                "date": "2021-09-27",
+                "isPredate": 0
+            },
+            {
+                "date": "2021-09-28",
+                "isPredate": 0
+            },
+            {
+                "date": "2021-09-29",
+                "isPredate": 0
+            },
+            {
+                "date": "2021-09-30",
+                "isPredate": 0
+            },
+            {
+                "date": "2021-10-01",
+                "isPredate": 0
+            },
+            {
+                "date": "2021-10-02",
+                "isPredate": 0
+            }
+        ]
+    },
+    "errMsg": "",
+    "success": true
+}

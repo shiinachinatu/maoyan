@@ -1,0 +1,183 @@
+`    <a href="/movie/1375543">
+      <div class="classic-movie">
+        <div class="avatar">
+          <img src="https://p0.meituan.net/movie/056cce783466d9531ad736068c2e134e4100879.jpg@1l_1e_1c_128w_180h" onerror="this.style.visibility='hidden'">		
+        </div>
+        <div class="movie-info">
+          <div class="title line-ellipsis">盛夏未来</div>
+            <div class="english-title line-ellipsis">Upcoming Summer</div>
+            <div class="actors line-ellipsis">剧情,青春</div>
+            <div class="show-info line-ellipsis">2021-07-30中国大陆上映</div>
+        </div>
+        <div class="movie-score">
+            <div class="score line-ellipsis">
+              <span class="grade">9.1</span>
+              <span>分</span>
+            </div>
+        </div>
+      </div>
+    </a>
+    <a href="/movie/1298542">
+      <div class="classic-movie">
+        <div class="avatar">
+          <img src="https://p0.meituan.net/movie/76bf7b6fe71f19d7d37c51387955002d3008498.jpg@1l_1e_1c_128w_180h" onerror="this.style.visibility='hidden'">		
+        </div>
+        <div class="movie-info">
+          <div class="title line-ellipsis">白蛇2：青蛇劫起</div>
+            <div class="actors line-ellipsis">冒险,奇幻,动画</div>
+            <div class="show-info line-ellipsis">2021-07-23 09: 00中国大陆上映</div>
+        </div>
+        <div class="movie-score">
+            <div class="score line-ellipsis">
+              <span class="grade">9.1</span>
+              <span>分</span>
+            </div>
+        </div>
+      </div>
+    </a>
+    <a href="/movie/1218188">
+      <div class="classic-movie">
+        <div class="avatar">
+          <img src="https://p0.meituan.net/movie/6b81b066311b1c056bdd6b48681e06271954626.jpg@1l_1e_1c_128w_180h" onerror="this.style.visibility='hidden'">		
+        </div>
+        <div class="movie-info">
+          <div class="title line-ellipsis">怒火·重案</div>
+            <div class="english-title line-ellipsis">RAGING FIRE</div>
+            <div class="actors line-ellipsis">动作,犯罪</div>
+            <div class="show-info line-ellipsis">2021-07-30 08: 00中国大陆上映</div>
+        </div>
+        <div class="movie-score">
+            <div class="score line-ellipsis">
+              <span class="grade">9.4</span>
+              <span>分</span>
+            </div>
+        </div>
+      </div>
+    </a>
+    <a href="/movie/1331661">
+      <div class="classic-movie">
+        <div class="avatar">
+          <img src="https://p0.meituan.net/movie/8912919e77446f54aaccfd274c83c7c42339273.jpg@1l_1e_1c_128w_180h" onerror="this.style.visibility='hidden'">		
+        </div>
+        <div class="movie-info">
+          <div class="title line-ellipsis">误杀2</div>
+            <div class="english-title line-ellipsis">Sheep Without a Shepherd 2</div>
+            <div class="actors line-ellipsis">悬疑,犯罪,剧情</div>
+        </div>
+        <div class="movie-score">
+            <div class="no-score">暂无评分</div>
+        </div>
+      </div>
+    </a>
+    <a href="/movie/1288094">
+      <div class="classic-movie">
+        <div class="avatar">
+          <img src="https://p1.meituan.net/movie/843f1cc03d3fc3aacaeab0bdaa9d6313892835.jpg@1l_1e_1c_128w_180h" onerror="this.style.visibility='hidden'">		
+        </div>
+        <div class="movie-info">
+          <div class="title line-ellipsis">妈妈的神奇小子</div>
+            <div class="english-title line-ellipsis">Zero To Hero</div>
+            <div class="actors line-ellipsis">剧情,家庭</div>
+            <div class="show-info line-ellipsis">2021-09-04 09: 00中国大陆上映</div>
+        </div>
+        <div class="movie-score">
+            <div class="score line-ellipsis">
+              <span class="grade">9.1</span>
+              <span>分</span>
+            </div>
+        </div>
+      </div>
+    </a>
+    <a href="/movie/346427">
+      <div class="classic-movie">
+        <div class="avatar">
+          <img src="https://p0.meituan.net/movie/b530e601a4c5bb2a8771c1bbf00e6a091790682.jpg@1l_1e_1c_128w_180h" onerror="this.style.visibility='hidden'">		
+        </div>
+        <div class="movie-info">
+          <div class="title line-ellipsis">兔子暴力</div>
+            <div class="english-title line-ellipsis">The Old Town Girls</div>
+            <div class="actors line-ellipsis">剧情,家庭,青春</div>
+            <div class="show-info line-ellipsis">2021-08-14中国大陆上映</div>
+        </div>
+        <div class="movie-score">
+            <div class="score line-ellipsis">
+              <span class="grade">7.1</span>
+              <span>分</span>
+            </div>
+        </div>
+      </div>
+    </a>
+    <a href="/movie/1285380">
+      <div class="classic-movie">
+        <div class="avatar">
+          <img src="https://p0.meituan.net/movie/c8ccdae8f4e9f30a46982d7aaf34301c2574215.jpg@1l_1e_1c_128w_180h" onerror="this.style.visibility='hidden'">		
+        </div>
+        <div class="movie-info">
+          <div class="title line-ellipsis">尚气与十环传奇</div>
+            <div class="english-title line-ellipsis">Shang-Chi and the Legend of the Ten Rings</div>
+            <div class="actors line-ellipsis">动作,奇幻,冒险</div>
+            <div class="show-info line-ellipsis">2021-09-03美国上映</div>
+        </div>
+        <div class="movie-score">
+            <div class="no-score">暂无评分</div>
+        </div>
+      </div>
+    </a>
+    <a href="/movie/1309249">
+      <div class="classic-movie">
+        <div class="avatar">
+          <img src="https://p0.meituan.net/movie/31b2bce336b8940bc38512d2b783346c2678920.jpg@1l_1e_1c_128w_180h" onerror="this.style.visibility='hidden'">		
+        </div>
+        <div class="movie-info">
+          <div class="title line-ellipsis">宝可梦：皮卡丘和可可的冒险</div>
+            <div class="english-title line-ellipsis">劇場版 ポケットモンスター ココ</div>
+            <div class="actors line-ellipsis">动画</div>
+            <div class="show-info line-ellipsis">2021-09-10 08: 00中国大陆上映</div>
+        </div>
+        <div class="movie-score">
+            <div class="score line-ellipsis">
+              <span class="grade">8.8</span>
+              <span>分</span>
+            </div>
+        </div>
+      </div>
+    </a>
+    <a href="/movie/1299372">
+      <div class="classic-movie">
+        <div class="avatar">
+          <img src="https://p0.meituan.net/movie/48774506dc0e68805bc25d2cd087d1024316392.jpg@1l_1e_1c_128w_180h" onerror="this.style.visibility='hidden'">		
+        </div>
+        <div class="movie-info">
+          <div class="title line-ellipsis">你好，李焕英</div>
+            <div class="english-title line-ellipsis">Hi, Mom</div>
+            <div class="actors line-ellipsis">喜剧,剧情</div>
+            <div class="show-info line-ellipsis">2021-02-12 08: 00中国大陆上映</div>
+        </div>
+        <div class="movie-score">
+            <div class="score line-ellipsis">
+              <span class="grade">9.5</span>
+              <span>分</span>
+            </div>
+        </div>
+      </div>
+    </a>
+    <a href="/movie/1342846">
+      <div class="classic-movie">
+        <div class="avatar">
+          <img src="https://p0.meituan.net/movie/771a7f78d4daec6d77972078b5552704425062.jpg@1l_1e_1c_128w_180h" onerror="this.style.visibility='hidden'">		
+        </div>
+        <div class="movie-info">
+          <div class="title line-ellipsis">夏日友晴天</div>
+            <div class="english-title line-ellipsis">LUCA</div>
+            <div class="actors line-ellipsis">动画,冒险,喜剧</div>
+            <div class="show-info line-ellipsis">2021-08-20中国大陆上映</div>
+        </div>
+        <div class="movie-score">
+            <div class="score line-ellipsis">
+              <span class="grade">9.1</span>
+              <span>分</span>
+            </div>
+        </div>
+      </div>
+    </a>
+`
